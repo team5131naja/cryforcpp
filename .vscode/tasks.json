@@ -7,7 +7,9 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
+                //add new folder always
                 "${fileDirname}/**.cpp",
+                "${fileDirname}/server/**.cpp",
                 "-o",
                 "${fileWorkspaceFolder}\\${fileBasenameNoExtension}.exe",
                 "-I",
