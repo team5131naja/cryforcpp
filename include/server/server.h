@@ -3,7 +3,7 @@
 #include <server/player.h>
 #include <tuple>
 
-using namespace ::std;
+using namespace::std;
 
 class Server
 {
