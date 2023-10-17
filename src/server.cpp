@@ -1,9 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <tuple>
-#include <server/server.h>
+#include <server.h>
 
-using namespace::std;
+using namespace std;
 
 void Server::setName(string name)
 {

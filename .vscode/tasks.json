@@ -10,6 +10,7 @@
                 //add new folder always
                 "${fileDirname}/**.cpp",
                 "${fileDirname}/server/**.cpp",
+                "${fileDirname}/console/**.cpp",
                 "-o",
                 "${fileWorkspaceFolder}\\${fileBasenameNoExtension}.exe",
                 "-I",

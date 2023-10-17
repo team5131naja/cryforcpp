@@ -1,9 +1,9 @@
 #include <iostream>
 #include <vector>
-#include <server/player.h>
+#include <player/player.h>
 #include <tuple>
 
-using namespace::std;
+using namespace std;
 
 class Server
 {

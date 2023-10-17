@@ -1,8 +1,8 @@
 #include <iostream>
 #include <test.h>
-#include <server/server.h>
+#include <server.h>
 
-using namespace::std;
+using namespace std;
 
 int main() {
     Test a;
