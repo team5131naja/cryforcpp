@@ -3,7 +3,7 @@
 #include <tuple>
 #include <server/server.h>
 
-using namespace ::std;
+using namespace::std;
 
 void Server::setName(string name)
 {

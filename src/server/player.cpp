@@ -1,7 +1,7 @@
 #include <iostream>
 #include <server/player.h>
 
-using namespace ::std;
+using namespace::std;
 
 Player::Player(string name)
 {
